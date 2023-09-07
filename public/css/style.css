@@ -1,0 +1,92 @@
+#header{
+    background: linear-gradient(to right,rgb(13,4,176),rgb(6,2,86));
+    
+}
+
+#header img{
+    width: 100px;
+    box-shadow: 5px 5px black;
+}
+
+#header .bi-list{
+    color:white;
+    font-size: 30px;
+}
+#header .navbar-toggler{
+    border:1px solid white;
+}
+#header ul li a{
+    color:white;
+}
+#header .container-fluid{
+    padding-left: 0px;
+}
+#banner{
+    background: linear-gradient(to right,rgb(13,4,176),rgb(6,2,86));
+    padding-top: 18px;
+    
+
+}
+#banner #banner-img{
+    width: 120px;
+    border-radius: 50%;
+}
+#banner img{
+    width: 100%;
+}
+#banner h3{
+    color:white;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#banner p{
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: white;
+}
+#about .card{
+    border: 0px solid green;
+}
+#about img{
+    width: 100px;
+    height: 100px;
+}
+#about h3{
+    text-align: center;
+    padding: 10px 0px;
+}
+#testi{
+    padding-top: 15px;
+}
+#testi img{
+    width: 100px;
+}
+#footer{
+    background: linear-gradient(to right,rgb(13,4,176),rgb(6,2,86));
+    
+ 
+}
+#footer #footer-border{
+    width: 100%;
+    color: white;
+}
+#footer p{
+    color:white;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#footer img{
+    width: 80px;
+}
+#footer h2{
+    color:white;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#footer #footerlogo{
+    width: 100px;
+    padding-bottom: 15px;
+}
+#footer span{
+    font-size: 30px;
+
+
+}
+
